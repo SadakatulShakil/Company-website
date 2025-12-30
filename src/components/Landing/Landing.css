@@ -65,7 +65,7 @@
        rgba(193, 212, 192, 0.01),
        rgba(9, 27, 29, 0.9)
      ),
-       url("../../assets/banner2.jpg");
+       url("../../assets/banner6.jpg");
      /* background-repeat: no-repeat;
          background-size: cover; */  
      height: auto;
@@ -83,7 +83,98 @@
       rgba(193, 212, 192, 0.01),
       rgba(9, 27, 29, 0.9)
     ),
-      url("../../assets/banner3.jpg");
+      url("../../assets/banner5.jpg");
+    /* background-repeat: no-repeat;
+        background-size: cover; */  
+    height: auto;
+    width: 100%;
+    /* background-size: contain; */
+    background-size: cover;
+  
+    background-size: 100% 85%;
+  
+    background-repeat: no-repeat;
+  }
+  .landingfive {
+    background-image:  linear-gradient(
+      to left,
+      rgba(193, 212, 192, 0.01),
+      rgba(9, 27, 29, 0.9)
+    ),
+      url("../../assets/banner2.jpg");
+    /* background-repeat: no-repeat;
+        background-size: cover; */  
+    height: auto;
+    width: 100%;
+    /* background-size: contain; */
+    background-size: cover;
+  
+    background-size: 100% 85%;
+  
+    background-repeat: no-repeat;
+  }
+  .landingsix {
+    background-image:  linear-gradient(
+      to left,
+      rgba(193, 212, 192, 0.01),
+      rgba(9, 27, 29, 0.9)
+    ),
+      url("../../assets/banner7.jpg");
+    /* background-repeat: no-repeat;
+        background-size: cover; */  
+    height: auto;
+    width: 100%;
+    /* background-size: contain; */
+    background-size: cover;
+  
+    background-size: 100% 85%;
+  
+    background-repeat: no-repeat;
+  }
+  .landingseven {
+    background-image:  linear-gradient(
+      to left,
+      rgba(193, 212, 192, 0.01),
+      rgba(9, 27, 29, 0.9)
+    ),
+      url("../../assets/banner8.jpg");
+    /* background-repeat: no-repeat;
+        background-size: cover; */  
+    height: auto;
+    width: 100%;
+    /* background-size: contain; */
+    background-size: cover;
+  
+    background-size: 100% 85%;
+  
+    background-repeat: no-repeat;
+  }
+
+  .landingeight {
+    background-image:  linear-gradient(
+      to left,
+      rgba(193, 212, 192, 0.01),
+      rgba(9, 27, 29, 0.9)
+    ),
+      url("../../assets/banner9.jpg");
+    /* background-repeat: no-repeat;
+        background-size: cover; */  
+    height: auto;
+    width: 100%;
+    /* background-size: contain; */
+    background-size: cover;
+  
+    background-size: 100% 85%;
+  
+    background-repeat: no-repeat;
+  }
+  .landingnine {
+    background-image:  linear-gradient(
+      to left,
+      rgba(193, 212, 192, 0.01),
+      rgba(9, 27, 29, 0.9)
+    ),
+      url("../../assets/banner10.jpg");
     /* background-repeat: no-repeat;
         background-size: cover; */  
     height: auto;

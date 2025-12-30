@@ -6,6 +6,9 @@ import partner3 from "../../assets/sars.png"
 import partner4 from "../../assets/du.png"
 import partner5 from "../../assets/daff.png"
 import partner6 from "../../assets/infitek.png"
+import partner7 from "../../assets/testronz.png"
+import partner8 from "../../assets/nl_science.png"
+import partner9 from "../../assets/gwinstek.png"
 const Partner = () => {
      return (
           <div>
@@ -61,7 +64,27 @@ const Partner = () => {
             className="w-52"
           />
          </div>
-         
+         <div className="  	  	 mx-10">
+          <img
+            src={partner7}
+            alt="Shoes"
+            className="w-52"
+          />
+         </div>
+         <div className="  	  	 mx-10">
+          <img
+            src={partner8}
+            alt="Shoes"
+            className="w-52"
+          />
+         </div>
+         <div className="  	  	 mx-10">
+          <img
+            src={partner9}
+            alt="Shoes"
+            className="w-52"
+          />
+         </div>
          </Marquee>
           </div>
      );

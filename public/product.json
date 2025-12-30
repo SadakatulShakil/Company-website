@@ -1,23 +1,23 @@
 [
      {
        "id": "663a4a1a39e6daa0f80b71c1",
-       "img": "https://i.ibb.co/9pXqfJT/product2.jpg",
-       "name": "Dip Coating Machine",
+       "img": "https://i.ibb.co.com/V3PjyMt/product1.png",
+       "name": "DMPO-2000 Series Multi-function Programmable Oscilloscope",
        "description":  
          {
-           "specificationsone": "Minimum Withdrawal Rate-0.01 mm.s-1  ",
-           "specificationstwo": "Maximum Withdrawal Rate-50 mm s-1",
-           "specificationsthree": "Rate Reproducibility ±0.01% @ 1mms-1 ; ± 0.1% @ 10 mm.s-1 ; ± 0.3% @ 50 mm.s-1",
-           "specificationsfour": "Maximum Travel Distance 100 mm",
-           "specificationsfive": "Maximum Number of Cycles 1000 cycles",
-           "specificationssix": "Maximum Timer Duration 99:59:59 (HH:MM:SS)",
-           "specificationsseven": "Integrated Software Features",
-           "specificationseight": "Variable withdrawal speed Repeat cycles Crash detection",
-           "specificationsnine": "Programmes 20",
-           "specificationsten": "Power Supply DC 24V",
+           "specificationsone": "MPO-2000P:200MHz; 4CH/2CH",
+           "specificationstwo": "MPO-2000B:100MHz; 4CH/2CH",
+           "specificationsthree": "Allow to use Python scripts to control for automation purpose",
+           "specificationsfour": "Dual Channel Spectrum analyzer with Spectrogram",
+           "specificationsfive": "I2C/SPI/UART/CAN/LIN serial bus trigger and decoding function",
+           "specificationssix": "MPO-2000P:CAN FD, USB 2.0(full speed), FlexRay, USB PD, I2S digital decoding",
+           "specificationsseven": "IMPO-2000B: CAN FD, USB 2.0 (full speed) digital decoding",
+           "specificationseight": "Data log function is able to track signal changes up to 1000 hours",
+           "specificationsnine": "Network storage function",
+           "specificationsten": "Equips with a spectrum analyzer; a dual channel 25MHz AWG; DMM and power supply",
            "specificationseleven": "Product Dimensions (W x H x D) 200 mm x 350 mm (450 mm fully extended) x 300 mm (7.87inch x 13.78inch, x 11.81inch)",
-           "specificationstwelve": "Weight 5.15kg",
-           "specificationsthirten": "Dip Coater Features High precision dip coating motor High Precision Motor"
+           "specificationstwelve": "Power Supply: Dual channel output, 1V to 20V continuously adjustable (0.1V step)",
+           "specificationsthirten": "Support USB CDC-ACM, USB HID Protocol (Professional version only)"
           }
        
      },
